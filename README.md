@@ -79,7 +79,3 @@ make clean
 ├── input.php
 └── code.ifjc22
 ```
-
-## Notes
-
-This was a four-person university team project for IFJ 2022/23. The original source code, documentation and coursework files are preserved; this README was updated later to make the repository easier to understand from GitHub.
