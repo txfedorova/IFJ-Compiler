@@ -2,6 +2,8 @@
 
 University team project implementing a compiler for the imperative language IFJ22 in C. The compiler processes source code from standard input and generates IFJcode22 target code.
 
+This repository is a fork of the original team repository and preserves the shared coursework implementation.
+
 The project was developed for the Brno University of Technology course **Formal Languages and Compilers (IFJ)**.
 
 Official course page: https://www.fit.vut.cz/study/course/IFJ/
